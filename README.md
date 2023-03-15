@@ -8,11 +8,11 @@ Es recomendable, además de contar con el software necesario, conocimiento sobre
 
 ### Prerequisitos de software
 
-* Alguna distribución reciente de Python
-* Numpy, Scipy, Numba, matplotlib, Seaborn
-* Jupyterlab o VSCode
+* Alguna distribución reciente de Python.
+* Numpy, Scipy, Numba, Matplotlib, Seaborn.
+* Jupyterlab o VSCode.
 * Opcionalmente, scienceplots. Nota: si no se desea emplear scienceplots hay que modificar o eliminar el estilo de graficación dentro de los notebooks.
-* Es recomendable 
+* Es recomendable emplear anaconda para satisfacer todos estos requisitos fácilmente.
 
 ## Uso
 
